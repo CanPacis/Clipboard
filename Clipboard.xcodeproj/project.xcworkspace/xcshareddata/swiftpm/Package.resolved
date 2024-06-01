@@ -1,0 +1,15 @@
+{
+  "originHash" : "e6ca8a59f06c9bb2a96ee78fdf8e0f6350baf08634d01d6050db4f7aff2423ef",
+  "pins" : [
+    {
+      "identity" : "swiftlinkpreview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/LeonardoCardoso/SwiftLinkPreview.git",
+      "state" : {
+        "revision" : "3eb30b1832a9cf0eaeec3e2cf6cfc0ed18ef763f",
+        "version" : "3.4.0"
+      }
+    }
+  ],
+  "version" : 3
+}
